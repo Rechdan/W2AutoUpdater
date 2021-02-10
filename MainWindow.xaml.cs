@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,8 +12,8 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
-using System.Windows.Shapes;
 using Flurl.Http;
+using LibGit2Sharp;
 
 namespace W2AutoUpdater
 {
@@ -43,6 +44,8 @@ namespace W2AutoUpdater
 			}
 		}
 
+
+
 		private StackPanel GetMainContainer()
 		{
 			var mainContainer = new StackPanel
@@ -57,6 +60,8 @@ namespace W2AutoUpdater
 
 			return mainContainer;
 		}
+
+
 
 		private StackPanel GetTopContainer()
 		{
@@ -177,6 +182,8 @@ namespace W2AutoUpdater
 			return channelBox;
 		}
 
+
+
 		private StackPanel GetBotContainer()
 		{
 			var container = new StackPanel
@@ -185,8 +192,143 @@ namespace W2AutoUpdater
 				Height = 140,
 			};
 
+			container.Children.Add(this.GetDownloadProgress());
+			container.Children.Add(this.GetStartButton());
+
 			return container;
 		}
+
+		private TextBlock DownloadProgressText = null;
+		private ProgressBar DownloadProgressBar = null;
+
+		private void SetProgressText(string newText)
+		{
+			this.DownloadProgressText.Dispatcher.Invoke(() =>
+			{
+				this.DownloadProgressText.Text = newText;
+			});
+		}
+
+		private void SetProgressBar(int value, int total)
+		{
+			this.DownloadProgressBar.Dispatcher.Invoke(() =>
+			{
+				this.DownloadProgressBar.Maximum = total;
+				this.DownloadProgressBar.Value = value;
+			});
+		}
+
+		private StackPanel GetDownloadProgress()
+		{
+			var container = new StackPanel
+			{
+				Orientation = Orientation.Vertical,
+				Width = 720,
+			};
+
+			this.DownloadProgressText = new TextBlock
+			{
+				Text = "Aguardando...",
+			};
+
+			this.DownloadProgressBar = new ProgressBar
+			{
+				Height = 15,
+			};
+
+			container.Children.Add(this.DownloadProgressText);
+			container.Children.Add(this.DownloadProgressBar);
+
+			return container;
+		}
+
+		private StackPanel GetStartButton()
+		{
+			var container = new StackPanel
+			{
+				Orientation = Orientation.Vertical,
+				VerticalAlignment = VerticalAlignment.Center,
+				Width = 240,
+			};
+
+			var button = new Button
+			{
+				HorizontalAlignment = HorizontalAlignment.Center,
+				Padding = new Thickness(20, 10, 20, 10),
+				Content = new TextBlock
+				{
+					Text = "JOGAR"
+				},
+			};
+
+			button.Click += (a, b) => this.OnStartButtonClick();
+
+			container.Children.Add(button);
+
+			return container;
+		}
+
+		private void OnStartButtonClick()
+		{
+			new Task(() =>
+			{
+				try
+				{
+					var repoUrl = "https://github.com/Rechdan/W2AutoUpdater.git";
+					var localClient = Path.GetFullPath("./client");
+
+					if (!Repository.IsValid(localClient))
+					{
+						this.SetProgressText("Baixando cliente");
+
+						var options = new CloneOptions
+						{
+							BranchName = "client",
+							OnCheckoutProgress = (file, value, total) =>
+							{
+								this.SetProgressText($"Copiando {file}");
+								this.SetProgressBar(value, total);
+							},
+							RepositoryOperationCompleted = (o) =>
+							{
+								using (var repo = new Repository(localClient))
+								{
+									var signature = new LibGit2Sharp.Signature(new Identity("CLIENT", "CLIENT@local"), DateTimeOffset.Now);
+									var options = new LibGit2Sharp.PullOptions
+									{
+										FetchOptions = new FetchOptions { }
+									};
+
+									Commands.Pull(repo, signature, options);
+								}
+							},
+						};
+
+						Repository.Clone(repoUrl, localClient, options);
+					}
+					else
+					{
+						// using (var repo = new Repository(localGit))
+						// {
+						// 	var options = new LibGit2Sharp.PullOptions
+						// 	{
+						// 		FetchOptions = new FetchOptions { }
+						// 	};
+
+						// 	var signature = new LibGit2Sharp.Signature(new Identity("CLIENT", "CLIENT@local"), DateTimeOffset.Now);
+
+						// 	Commands.Pull(repo, signature, options);
+						// }
+					}
+				}
+				catch (Exception ex)
+				{
+					this.ShowError(ex);
+				}
+			}).Start();
+		}
+
+
 
 		private void ShowError(Exception ex)
 		{
