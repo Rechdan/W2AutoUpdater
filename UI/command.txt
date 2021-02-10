@@ -1,0 +1,52 @@
+FFFFFF  
+FFFFFF Comandos p/ Guilda
+FFFFAA
+FFFFAA guild
+AAFFAA Ver lista de membros conectados. Ver situação da Guerra.
+FFFFAA
+FFFFAA Taxa
+AAFFAA Comando p/ taxa (0 a 20)
+AAFFAA (Somente para o Champion Guilda Master de cada cidade)
+FFFFAA
+FFFFAA /ChamaGuilda
+AAFFAA Convoca os membros conectados da Guilda.
+AAFFAA Convoca todos(sub guilda também), Guilda Chefe consegue.
+AAFFAA Convocar apenas da sua Sub Guilda.
+AAFFAA (Somente para Guilda Master e Chefe)
+FFFFAA
+FFFFAA /Cancelar [Nome do membro]
+AAFFAA Pega de volta a Medalha da Guilda (somente para Guilda Master,chefe.)
+FFFFAA
+FFFFAA /transportar [Nome do membro]
+AAFFAA Transporta para o local que está o membro
+AAFFAA Somente para Guilda Master, Chefe e membros com medalha da guilda.
+FFFFAA
+FFFFAA /FimGuerra
+AAFFAA Finaliza a declaração de guerra.
+FFFFAA
+FFFFAA /finalizarirma
+AAFFAA Finaliza a irmandade com outra guilda.
+FFFFFF  
+FFFFFF Comandos p/ Chat
+FFFFAA /[nome do personagem] [conversa]
+AAFFAA Falar em PVT
+FFFFAA
+FFFFAA /r [conversa]
+AAFFAA Responde ao usuário que falou em PVT
+FFFFAA
+FFFFAA = [conversa]
+AAFFAA Falar com membros do grupo
+FFFFAA
+FFFFAA - [conversa]
+AAFFAA Conversa com membros da Guilda
+FFFFAA
+FFFFAA -- [conversa]
+AAFFAA Conversa com Guildas em irmandade
+FFFFAA
+FFFFAA * [conversa]
+AAFFAA Exibe a conversa durante 10 segundos
+FFFFAA
+FFFFAA /[nome do personagem] ![conversa]
+AAFFAA A conversa fica salva como mensagem até a pessoa sair do jogo.
+AAFFAA 
+FFFFFF  
