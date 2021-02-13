@@ -38,7 +38,7 @@ FFFFFF
 AAFFFF 
 FFFFFF 
 FFFFFF 
-FFFFAA << O Quarto Secreto >>
+FFFFAA << Sala Secreta >>
 FFFFFF   
 FFFFFF Estarei agradecido para sempre.
 FFFFFF Espero que você também saiba disso.
@@ -51,8 +51,8 @@ FFFFFF que esta escondido no quarto
 FFFFFF você poderá ganhar muita experiência.
 FFFFFF 
 FFFFFF Se você tiver em mãos o símbolo de coragem, 
-FFFFFF poderá obter a "Pedra_da_Luz_Sagrada"
-FFFFFF e a "Pedra_Espiritual".
+FFFFFF poderá obter a "Pedra da Luz Sagrada"
+FFFFFF e a "Pedra Espiritual".
 FFFFFF 
 AAFFFF Está preparado para desvendar o mistério do quarto?
 FFFFFF 
@@ -278,7 +278,7 @@ FFFFFF
 FFFFFF 
 FFFFFF 
 FFFFFF 
-FFFFAA << O Portão do Inferno >>  
+FFFFAA << Portão Infernal >>  
 FFFFFF 
 FFFFFF Você ouviu boatos sobre o Portão do Inferno?
 FFFFFF 
@@ -319,7 +319,7 @@ FFFFFF
 FFFFFF 
 FFFFFF 
 FFFFFF
-FFFFAA << Endless Storm >>  
+FFFFAA << Tempestade Inacabável >>  
 FFFFFF 
 FFFFFF Está na hora de você mostrar a sua lealdade e sua
 FFFFFF coragem para todo o reino.
@@ -378,7 +378,7 @@ FFFFFF
 FFFFFF 
 FFFFFF 
 FFFFFF 
-FFFFAA << À procura da vida eterna >>  
+FFFFAA << À procura da Vida Eterna >>  
 FFFFFF 
 FFFFFF Passou-se muito tempo desde que estamos juntos...
 FFFFFF 

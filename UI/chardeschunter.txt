@@ -1,8 +1,9 @@
-FFFFFF O Hunter está acostumado com sua
-FFFFFF vida no campo,por isso possuem uma grande  
-FFFFFF capacidade de sobrevivência em ambientes 
-FFFFFF hostis.Por serem ótimos comerciantes, 
-FFFFFF conseguem utilizar o seu inventário a 
-FFFFFF qualquer momento.Por isso ele é um membro  
-FFFFFF muito útil e ajuda bastante nas 
-FFFFFF caçadas em grupo.
+FFFFFF A Huntress possui diversas habilidades
+FFFFFF que podem ser utilizadas a grandes
+FFFFFF distâncias. Devido ao tempo que passam
+FFFFFF longe de vilas e cidades, desenvolveram
+FFFFFF diversas técnicas voltadas para
+FFFFFF negociações e comércio em geral.
+FFFFFF Apesar de não ser muito resistente, possui
+FFFFFF habilidades que colaboram para sua 
+FFFFFF sobrevivência no campo de batalha.

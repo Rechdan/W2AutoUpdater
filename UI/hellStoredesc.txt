@@ -1,14 +1,14 @@
-AAFFAA Essa é a loja do Portão do Inferno
+AAFFAA Essa é a loja do Portão Infernal
 AAFFAA Vendemos armas, armaduras, acessórios e 
 AAFFAA equipamentos variados.
 AAFFAA * Atenção
 AAFFAA Na compra as opções são atribuídas de  
-AAFFAA forma randômica
+AAFFAA forma aleatória.
 AAFFAA Caso não possua espaço no 
-AAFFAA seu inventario não será possível comprar.
-AAFFAA Não há limite de quantidade de compra.
+AAFFAA seu inventario, não será possível comprar.
+AAFFAA Não há limite na quantidade de compra.
 AAFFAA Não cobramos custo de produção
-AAFFAA dos itens aqui vendido.
+AAFFAA dos itens aqui vendidos.
 AAFFAA Podem vender de volta os itens.
 AAFFAA 
 AAFFAA 
@@ -78,12 +78,12 @@ FFFFFF
 FFFFFF
 FFFFFF
 FFFFFF
-AAFFAA [Random]
+AAFFAA [Aleatório]
 AAFFAA Vende randomicamente armas,
 AAFFAA defesas, equipamentos e
 AAFFAA acessórios em geral.
 AAFFAA Os atributos opcionais são
-AAFFAA dados de forma randômica.
+AAFFAA dados de forma aleatória.
 AAFFAA Mas não é possivel escolher, pois
 AAFFAA isso depende da sorte de cada um.
 AAFFAA Precisa de espaço, 2 horizontal 

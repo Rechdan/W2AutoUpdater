@@ -1,36 +1,35 @@
-FFFFFF  
-FFFFFF 11.07.2006 Novidades do WYD
-FFFFFF  
-FFFFFF       Olá jogadores,
-FFFFFF 
-FFFFFF       Gostaríamos de apresentar a todos dois usuários que se 
-FFFFFF destacaram por ajudar não só os GMs no fórum, como também por
-FFFFFF ajudarem a sanar as duvidas mais comuns do jogo, foram escolhidos 
-FFFFFF pelos GMs para se tornarem moderadores do fórum.
-FFFFFF Eles poderão ser identificados no fórum por terem um desenho  
-FFFFFF parecido com o do GM, a diferença é que no ícone deles aparece
-FFFFFF a palavra MOD. Seu nick são:       
+FFFFFF       WITH YOUR DESTINY
 FFFFFF       
-FFFFFF - MOD Graak
-FFFFFF - MOD Dmz
-FFFFFF Saiba mais sobre os moderadores lendo a noticia no site.
-FFFFFF 
+FFFFFF 	     Bem-Vindo ao continente Kersef!
 FFFFFF       
-FFFFFF Novos itens no item mall
-FFFFFF 
-FFFFFF       Foram adicionados os seguintes itens:
-FFFFFF Curar Montaria, Fada Azul (168hs), Fada Verde (168hs), Restaurador FFFFFF Yus, Restaurador Birago, Restaurador Mencar, Catalisador Yus,
-FFFFFF Catalisador Birago, Catalisador Mencar, Cavalo Shire (15dias)
-FFFFFF Pergaminho da Transformação II (G.Fogo), Pergaminho da FFFFFF Transformação II (Lobo), Pergaminho da Transformação II (Javali)
-FFFFFF Pesadelo (Arcano/Grupo), Panqueca (7dias), Feijão Preto,   
-FFFFFF Feijão Prateado, Pacote Poção Poderosa e Poção Sephira.
-FFFFFF participar de nossas promoções.
-FFFFFF       
-FFFFFF   
-FFFFFF       Atenciosamente,
-FFFFFF  
-FFFFFF  
-FFFFFF       Equipe WYD,
-FFFFFF       O destino do mundo em suas mãos!
+FFFFFF       Novas aventuras o aguardam...
 FFFFFF
-FFFFFF       http://www.wyd.com.br
+FFFFFF              
+FFFFFF       Confira o Guia do Jogo em wyd.ongame.com.br
+FFFFFF       para encontrar diversas informações sobre o jogo.
+FFFFFF       
+FFFFFF       Dicas de Segurança:
+FFFFFF
+FFFFFF       Tome cuidado durante as negociações, não empreste
+FFFFFF       ou aceite itens de estranhos.
+FFFFFF       
+FFFFFF	     Mantenha sua senha em segurança e crie o hábito de
+FFFFFF       alterá-la com frequência. A senha de acesso aos
+FFFFFF       Personagens também deve ser memorizada, e caso se
+FFFFFF	     esqueça, contate o Suporte do jogo. Lembramos também
+FFFFFF       que a Equipe Ongame nunca solicitará sua ID ou Senha.
+FFFFFF
+FFFFFF
+FFFFFF       Para maiores informações ou esclarecimento de dúvidas,
+FFFFFF       acesse o SUPORTE (wyd.ongame.com.br).
+FFFFFF
+FFFFFF       
+FFFFFF       Atenciosamente,
+FFFFFF       
+FFFFFF       Equipe Ongame / WYD
+FFFFFF       
+FFFFFF       WYD - O destino do mundo em suas mãos.       
+FFFFFF       
+FFFFFF       
+FFFFFF       Copyright ONGAME, JOYIMPACT & HANBITSOFT 2009.
+FFFFFF       Todos os direitos reservados.

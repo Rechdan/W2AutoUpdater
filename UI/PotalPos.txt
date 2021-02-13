@@ -18,16 +18,16 @@ FFFFFF    [Dungeon 2]           Local do Golem_de_Fogo           959 3813
 FFFFFF    [Dungeon 2]           Local do Golem_de_Fogo           926 3750
 FFFFFF    [Dungeon 2]            Local do Dragon Lich             1096 3730
 FFFFFF    [Dungeon 3]            Local do Dragon Lich             1132 3800
-FFFFFF  [UnderWorld 1]           Local do Aquagolem              1242 4035
-FFFFFF  [UnderWorld 1]           Local do Aquagolem              1264 4017
-FFFFFF  [UnderWorld 1]           Local do Aquagolem              1333 3994
-FFFFFF  [UnderWorld 1]      Local do Cavaleiro ElfoNegro      1358 4041
-FFFFFF  [UnderWorld 1]      Local do Cavaleiro_ElfoNegro      1462 4033
-FFFFFF  [UnderWorld 1]           Local do Chefe Zumbi           1326 3788
-FFFFFF  [UnderWorld 2]        Local do Chefe_Zumbi_Troll       1493 3777
-FFFFFF  [UnderWorld 2]          Local do Demo_Gorgon           1437 3741
-FFFFFF  [UnderWorld 2]            Local do Morlock                  1389 3740
-FFFFFF  [UnderWorld 2]            Local do Morlock                  1422 3810
+FFFFFF  [Submundo 1]           Local do Aquagolem              1242 4035
+FFFFFF  [Submundo 1]           Local do Aquagolem              1264 4017
+FFFFFF  [Submundo 1]           Local do Aquagolem              1333 3994
+FFFFFF  [Submundo 1]      Local do Cavaleiro ElfoNegro      1358 4041
+FFFFFF  [Submundo 1]      Local do Cavaleiro_ElfoNegro      1462 4033
+FFFFFF  [Submundo 1]           Local do Chefe Zumbi           1326 3788
+FFFFFF  [Submundo 2]        Local do Chefe_Zumbi_Troll       1493 3777
+FFFFFF  [Submundo 2]          Local do Demo_Gorgon           1437 3741
+FFFFFF  [Submundo 2]            Local do Morlock                  1389 3740
+FFFFFF  [Submundo 2]            Local do Morlock                  1422 3810
 FFFFFF   [Deserto Kult]      Local do Verme do Freixo         1376 1722
 FFFFFF   [Deserto Kult]      Local do Verme do Freixo         1426 1686
 FFFFFF   [Deserto Kult]       Local do LugeferBroken           1381 1861
@@ -48,13 +48,13 @@ FFFFFF      [Kefra]                Local do Símio_Bleg               2534 3897
 FFFFFF      [Kefra]                Local do Símio_Bleg               2489 3919
 FFFFFF      [Kefra]               Local do Lich_Batama              2269 3910
 FFFFFF      [Kefra]                Local do Lich_Crunt                2202 3866
-FFFFFF   [Nipleheim]               Local do Urso_Polar              3664 3024
-FFFFFF   [Nipleheim]               Local do Troll_Ártico              3582 3007
-FFFFFF   [Nipleheim]               Local do Ent_Ancião              3514 3008
-FFFFFF   [Nipleheim]            Local do Soldado Amon            3818 2977
-FFFFFF   [Nipleheim]           Local do Guerreiro_Amon           3517 2889
-FFFFFF   [Nipleheim]             Local do Chefe_Amon             3745 2977
-FFFFFF   [Nipleheim]           Local do Homem_Kalintz            3639 2877
-FFFFFF   [Nipleheim]            Local da Mulher_Kalintz             3650 2727
-FFFFFF   [Nipleheim]          Local da Vila_Amaldiçoada          3660 2773
-FFFFFF   [Nipleheim]           Local da Valquíria_Rosen           3746 2879
+FFFFFF   [Nippleheim]               Local do Urso_Polar              3664 3024
+FFFFFF   [Nippleheim]               Local do Troll_Ártico              3582 3007
+FFFFFF   [Nippleheim]               Local do Ent_Ancião              3514 3008
+FFFFFF   [Nippleheim]            Local do Soldado Amon            3818 2977
+FFFFFF   [Nippleheim]           Local do Guerreiro_Amon           3517 2889
+FFFFFF   [Nippleheim]             Local do Chefe_Amon             3745 2977
+FFFFFF   [Nippleheim]           Local do Homem_Kalintz            3639 2877
+FFFFFF   [Nippleheim]            Local da Mulher_Kalintz             3650 2727
+FFFFFF   [Nippleheim]          Local da Vila_Amaldiçoada          3660 2773
+FFFFFF   [Nippleheim]           Local da Valquíria_Rosen           3746 2879

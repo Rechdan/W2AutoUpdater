@@ -1,4 +1,4 @@
-FFFFAA << A descoberta dos 4 cristais >>  
+FFFFAA << Contrato dos Espíritos >>  
 FFFFFF 
 FFFFFF Na guerra lendária, o General do céu, Kafma, estava
 FFFFFF liderando o batalhão comandado por 4 contratantes
@@ -38,7 +38,7 @@ FFFFFF
 FFFFFF 
 FFFFFF 
 FFFFFF 
-FFFFAA << Segundo: Espírito de Vento >>  
+FFFFAA << Segundo: Espírito do Vento >>  
 FFFFFF 
 FFFFFF Para o contrato com Sylphed é necessário ser
 FFFFFF um personagem Arch com level de 355 e precisa
@@ -58,7 +58,7 @@ FFFFFF
 FFFFFF 
 FFFFFF 
 FFFFFF 
-FFFFAA << Terceiro: Espírito de Fogo >>  
+FFFFAA << Terceiro: Espírito do Fogo >>  
 FFFFFF 
 FFFFFF Para o contrato com Thelio é necessário 
 FFFFFF ser um personagem Arch com
@@ -78,7 +78,7 @@ FFFFFF
 FFFFFF  
 FFFFFF 
 FFFFFF 
-FFFFAA << Quarto: Espírito de Terra >> 
+FFFFAA << Quarto: Espírito da Terra >> 
 FFFFFF 
 FFFFFF Para o contrato com Noas é necessário ser 
 FFFFFF um personagem Arch com level de 355 e precisa

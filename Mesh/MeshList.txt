@@ -1008,6 +1008,26 @@
 1414 mesh\\ch020462.msa
 1415 mesh\\ch020562.msa
 1416 mesh\\ch020662.msa
+
+1417 mesh\\ch010346.msa
+1418 mesh\\ch010446.msa
+1419 mesh\\ch010546.msa
+1420 mesh\\ch010646.msa
+
+1421 mesh\\ch010366.msa
+1422 mesh\\ch010466.msa
+1423 mesh\\ch010566.msa
+1424 mesh\\ch010666.msa
+
+1425 mesh\\ch020346.msa
+1426 mesh\\ch020446.msa
+1427 mesh\\ch020546.msa
+1428 mesh\\ch020646.msa
+
+1429 mesh\\ch020366.msa
+1430 mesh\\ch020466.msa
+1431 mesh\\ch020566.msa
+1432 mesh\\ch020666.msa
 1500 mesh\\kwal01.msa
 1501 mesh\\kwal02.msa
 1502 mesh\\kwal03.msa
@@ -1699,3 +1719,44 @@
 2883 mesh\\valkyrie.msa
 2884 mesh\\rebirthmt.msa
 2885 mesh\\skeltonmt.msa
+2886 mesh\\pppotion.msa
+2887 mesh\\shout.msa
+2888 mesh\\ksob18.msa
+2889 mesh\\aabarrack.msa
+2890 mesh\\aawandone.msa
+2891 mesh\\aawandtwo.msa
+2892 mesh\\aawbow.msa
+2893 mesh\\aawclaw.msa
+2894 mesh\\aawhammerone.msa
+2895 mesh\\aawhammertwo.msa
+2896 mesh\\aawshield.msa
+2897 mesh\\aawspear.msa
+2898 mesh\\aawswordone.msa
+2899 mesh\\aawswordtwo.msa
+2900 mesh\\aawthrow.msa
+2901 mesh\\aamythril.msa
+2902 mesh\\jewel01.msa
+2903 mesh\\jewelpower01.msa
+2904 mesh\\mega001.msa
+2905 mesh\\black01.msa
+2906 mesh\\swordnew1.msa
+2907 mesh\\Bownew1.msa
+2908 mesh\\Staffnew1.msa
+2909 mesh\\Spearnew1.msa
+2910 mesh\\CharmStone.msa
+2911 mesh\\CharmPowder.msa
+
+2912 mesh\\unithrow01.msa
+2913 mesh\\unisword01.msa
+2914 mesh\\nuispear01.msa
+2915 mesh\\unizenrod01.msa
+2916 mesh\\uniclaw01.msa
+2917 mesh\\unibow01.msa
+2918 mesh\\uniaxe01.msa
+2919 mesh\\unrunerod01.msa
+2920 mesh\\unihammer01.msa
+2921 mesh\\unicross01.msa
+2922 mesh\\unishield01.msa
+2923 mesh\\unibeaker01.msa
+
+
